@@ -1,6 +1,6 @@
 # HR Analytics Dashboard with Power BI
 
-Hello everyone! I have created a sample Power BI dashboard for the HR department. This dashboard is designed to provide a comprehensive view of employee attrition data based on various parameters such as salary, department, age, education field, and years of experience in the company.
+I have created a sample Power BI dashboard for the HR department. This dashboard is designed to provide a comprehensive view of employee attrition data based on various parameters such as salary, department, age, education field, and years of experience in the company.
 
 ![image](https://github.com/nakulnalwa/HR-Analytics-PowerBI/assets/47208563/ca8d90ae-645a-4fdf-a468-d6fb7fe9a635)
 
